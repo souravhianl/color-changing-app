@@ -1,0 +1,25 @@
+.square{
+    width: 100px;
+    height: 100px;
+    margin: 5px;
+    border: 2px solid #ffffff;
+}
+.container{
+    display: flex;
+    justify-content: space-around;
+}
+#gold{
+    background-color: gold;
+}
+#blueviolet{
+    background-color:blueviolet;
+}
+#bisque{
+    background-color: bisque;
+}
+#black{
+    background-color: black;
+}
+h1{
+    color: black;
+}
